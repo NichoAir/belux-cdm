@@ -5,12 +5,12 @@
 	<expiredCtot time="15" />
 	<realMode mode="true" />
 	<pilotTobt mode="true" />
-	<autoAtot mode="false" />
+	<autoAtot mode="true" />
 	<invalidateAtTsat mode="true" />
 	<invalidateAtTobt mode="true" />
 	<Rates url="https://raw.githubusercontent.com/NichoAir/belux-cdm/refs/heads/main/rate.txt" />
 	<Taxizones url="https://raw.githubusercontent.com/NichoAir/belux-cdm/refs/heads/main/taxizones.txt" />
-	<Ctot url="" />
+	<Ctot url="https://raw.githubusercontent.com/NichoAir/belux-cdm/refs/heads/main/CTOT.txt" />
 	<sidInterval url="https://raw.githubusercontent.com/NichoAir/belux-cdm/refs/heads/main/sidinterval.txt" />
 	<DefaultTaxiTime minutes="15" />
 	<DeIceTimes light="5" medium="9" heavy="12" super="15"/>
