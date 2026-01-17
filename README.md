@@ -1,2 +1,2 @@
 # CDM Config
-Here are all the files hosted, that are needed to sue the CDM plugin.
+Here are all the files hosted, that are needed to use the CDM plugin.
