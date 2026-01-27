@@ -17,7 +17,7 @@
 	<DeIceRemTaxi rem1Name= "DIPM" rem1="18" rem2Name= "DIP3N" rem2="20" rem3Name= "DIPS" rem3="24" rem4Name= "DIPW" rem4="18" rem5Name= "" rem5="0"/>
 	<RefreshTime seconds="10" />
 	<Debug mode="false" />
-	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin" />
+	<FlowRestrictions url="" />
 	<vdgsFileType type="3"/>
 	<ftpHost host="" />
 	<ftpUser user="" />
