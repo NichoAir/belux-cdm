@@ -7,7 +7,8 @@
         "airport": "EBCI",
         "apron": "P1-P4",
         "usage": "general aviation",
-        "stands": "17B-27A"
+        "stands": "17B-27A",
+        "note": null
       },
       "geometry": {
         "coordinates": [
@@ -43,7 +44,8 @@
         "airport": "EBCI",
         "apron": "P5",
         "usage": "overflow commercial",
-        "stands": "30-39"
+        "stands": "30-39",
+        "note": null
       },
       "geometry": {
         "coordinates": [
@@ -79,7 +81,8 @@
         "airport": "EBCI",
         "apron": "P10-P11",
         "usage": "backup commercial",
-        "stands": "80-81"
+        "stands": "80-81",
+        "note": null
       },
       "geometry": {
         "coordinates": [
@@ -115,7 +118,8 @@
         "airport": "EBCI",
         "apron": "P10-P11",
         "usage": "commercial",
-        "stands": "51-57"
+        "stands": "51-57",
+        "note": null
       },
       "geometry": {
         "coordinates": [
@@ -151,7 +155,8 @@
         "airport": "EBCI",
         "apron": "P12-P13",
         "usage": "backup commercial",
-        "stands": "88-94"
+        "stands": "88-94",
+        "note": null
       },
       "geometry": {
         "coordinates": [
@@ -187,7 +192,8 @@
         "airport": "EBCI",
         "apron": "P12-P13",
         "usage": "commercial",
-        "stands": "58-66"
+        "stands": "58-66",
+        "note": null
       },
       "geometry": {
         "coordinates": [
@@ -223,7 +229,8 @@
         "airport": "EBCI",
         "apron": "P14-P15",
         "usage": "commercial",
-        "stands": "66-72"
+        "stands": "66-72",
+        "note": null
       },
       "geometry": {
         "coordinates": [
