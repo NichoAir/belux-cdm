@@ -1,4 +1,4 @@
-# Taxi zone coordinates for ELLX - Luxembourgh Findel Airport
+# Taxi zone coordinates for ELLX - Luxembourg Findel Airport
 # Format: AirportICAO:Runway:Lat1:Lon1:Lat2:Lon2:Lat3:Lon3:Lat4:Lon4:TaxiTime:DeIceTimes
 
 # ELLX Apron P7

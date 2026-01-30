@@ -155,7 +155,7 @@
         "airport": "ELLX",
         "apron": "P4-P6",
         "usage": "general aviation",
-        "stands": null,
+        "stands": "n/a",
         "note": null
       },
       "geometry": {
