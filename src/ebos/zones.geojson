@@ -4,7 +4,48 @@
     {
       "type": "Feature",
       "properties": {
-        "Aporn 2": ""
+        "airport": "EBOS",
+        "apron": "P1",
+        "usage": "cargo",
+        "stands": "101-106",
+        "note": null
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              2.89336953685779,
+              51.194920085298236
+            ],
+            [
+              2.8968258761092898,
+              51.19458891971132
+            ],
+            [
+              2.8985111985548144,
+              51.20046899237644
+            ],
+            [
+              2.8949263177604223,
+              51.20072852166902
+            ],
+            [
+              2.89336953685779,
+              51.194920085298236
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "airport": "EBOS",
+        "apron": "P2",
+        "usage": "commercial",
+        "stands": "201-233",
+        "note": "203-205 passengers"
       },
       "geometry": {
         "coordinates": [
@@ -37,39 +78,12 @@
     {
       "type": "Feature",
       "properties": {
-        "Apron 1": ""
+        "airport": "EBOS",
+        "apron": "P3",
+        "usage": "general aviation",
+        "stands": "n/a",
+        "note": null
       },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              2.89336953685779,
-              51.194920085298236
-            ],
-            [
-              2.8968258761092898,
-              51.19458891971132
-            ],
-            [
-              2.8985111985548144,
-              51.20046899237644
-            ],
-            [
-              2.8949263177604223,
-              51.20072852166902
-            ],
-            [
-              2.89336953685779,
-              51.194920085298236
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
       "geometry": {
         "coordinates": [
           [
