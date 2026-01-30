@@ -1,79 +1,18 @@
 {
-  "type":"FeatureCollection",
-  "features":[
+  "type": "FeatureCollection",
+  "features": [
     {
-      "type":"Feature",
-      "geometry":{
-        "type":"Polygon",
-        "coordinates":[
-          [
-            [
-              6.2241108,
-              49.6336792
-            ],
-            [
-              6.2215789,
-              49.6364278
-            ],
-            [
-              6.2242258,
-              49.6373667
-            ],
-            [
-              6.2268347,
-              49.6345353
-            ],
-            [
-              6.2241108,
-              49.6336792
-            ]
-          ]
-        ]
+      "type": "Feature",
+      "properties": {
+        "airport": "ELLX",
+        "apron": "P1",
+        "usage": "Commercial jets",
+        "stands": "A02-A14",
+        "note": "A-stands, max WTC-M"
       },
-      "properties":{
-        "airport":"ELLX",
-        "apron":"P10"
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Polygon",
-        "coordinates":[
-          [
-            [
-              6.2138086,
-              49.6303956
-            ],
-            [
-              6.2118325,
-              49.6325553
-            ],
-            [
-              6.2142925,
-              49.6334347
-            ],
-            [
-              6.2164922,
-              49.6309631
-            ],
-            [
-              6.2138086,
-              49.6303956
-            ]
-          ]
-        ]
-      },
-      "properties":{
-        "airport":"ELLX",
-        "apron":"B stands, V10+13"
-      }
-    },
-    {
-      "type":"Feature",
-      "geometry":{
-        "type":"Polygon",
-        "coordinates":[
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
               6.2151547,
@@ -97,17 +36,20 @@
             ]
           ]
         ]
-      },
-      "properties":{
-        "airport":"ELLX",
-        "apron":"A stands"
       }
     },
     {
-      "type":"Feature",
-      "geometry":{
-        "type":"Polygon",
-        "coordinates":[
+      "type": "Feature",
+      "properties": {
+        "airport": "ELLX",
+        "apron": "P1",
+        "usage": "LCC, backup",
+        "stands": "V27-V43A",
+        "note": "V-stands"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
               6.2165986,
@@ -131,17 +73,57 @@
             ]
           ]
         ]
-      },
-      "properties":{
-        "airport":"ELLX",
-        "apron":"V stands"
       }
     },
     {
-      "type":"Feature",
-      "geometry":{
-        "type":"Polygon",
-        "coordinates":[
+      "type": "Feature",
+      "properties": {
+        "airport": "ELLX",
+        "apron": "P1",
+        "usage": "Commercial turboprops, regional jets",
+        "stands": "B01-V13",
+        "note": "B-stands, V10-V13, max Code-C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.2138086,
+              49.6303956
+            ],
+            [
+              6.2118325,
+              49.6325553
+            ],
+            [
+              6.2142925,
+              49.6334347
+            ],
+            [
+              6.2164922,
+              49.6309631
+            ],
+            [
+              6.2138086,
+              49.6303956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "airport": "ELLX",
+        "apron": "P2",
+        "usage": "general aviation",
+        "stands": "G01-G61B",
+        "note": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
               6.2083444,
@@ -165,17 +147,20 @@
             ]
           ]
         ]
-      },
-      "properties":{
-        "airport":"ELLX",
-        "apron":"P2"
       }
     },
     {
-      "type":"Feature",
-      "geometry":{
-        "type":"Polygon",
-        "coordinates":[
+      "type": "Feature",
+      "properties": {
+        "airport": "ELLX",
+        "apron": "P4-P6",
+        "usage": "general aviation",
+        "stands": null,
+        "note": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
               6.1949167,
@@ -199,17 +184,20 @@
             ]
           ]
         ]
-      },
-      "properties":{
-        "airport":"ELLX",
-        "apron":"P5"
       }
     },
     {
-      "type":"Feature",
-      "geometry":{
-        "type":"Polygon",
-        "coordinates":[
+      "type": "Feature",
+      "properties": {
+        "airport": "ELLX",
+        "apron": "P7",
+        "usage": "cargo",
+        "stands": "Z1-Z8",
+        "note": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
             [
               6.2267469,
@@ -233,10 +221,43 @@
             ]
           ]
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "airport": "ELLX",
+        "apron": "P10",
+        "usage": "cargo",
+        "stands": "Z9-Z12A",
+        "note": null
       },
-      "properties":{
-        "airport":"ELLX",
-        "apron":"P7"
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.2241108,
+              49.6336792
+            ],
+            [
+              6.2215789,
+              49.6364278
+            ],
+            [
+              6.2242258,
+              49.6373667
+            ],
+            [
+              6.2268347,
+              49.6345353
+            ],
+            [
+              6.2241108,
+              49.6336792
+            ]
+          ]
+        ]
       }
     }
   ]
