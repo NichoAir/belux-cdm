@@ -1,6 +1,7 @@
 # belux-cdm data pack
 Operational data and configuration files for the VATSIM CDM plugin, based on the Brussels (EBBU) and Luxembourgh (ELLX).
 
+
 ## Content
 - [CDMconfig.xml](cfg/CDMconfig.xml): plugin settings
 - [ctot.txt](cfg/ctot.txt): optional slot overrides
