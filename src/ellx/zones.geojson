@@ -11,7 +11,6 @@
         "note": "A-stands, max WTC-M"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -35,7 +34,8 @@
               49.6324242
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
@@ -48,7 +48,6 @@
         "note": "V-stands"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -72,7 +71,8 @@
               49.6308053
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
@@ -85,7 +85,6 @@
         "note": "B-stands, V10-V13, max Code-C"
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -109,7 +108,8 @@
               49.6303956
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
@@ -122,7 +122,6 @@
         "note": null
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -146,7 +145,8 @@
               49.6281108
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
@@ -159,7 +159,6 @@
         "note": null
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -183,7 +182,8 @@
               49.6221892
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
@@ -196,7 +196,6 @@
         "note": null
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -220,7 +219,8 @@
               49.6345917
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     },
     {
@@ -233,7 +233,6 @@
         "note": null
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
             [
@@ -257,7 +256,8 @@
               49.6336792
             ]
           ]
-        ]
+        ],
+        "type": "Polygon"
       }
     }
   ]
