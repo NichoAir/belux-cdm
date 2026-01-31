@@ -1,0 +1,4 @@
+# Rates for EBLG - Liege Airport
+# Format: AIRPORT:MAX_ARRIVAL_ONLY_CAPACITY
+
+EBLG,28

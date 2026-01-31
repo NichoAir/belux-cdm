@@ -1,0 +1,4 @@
+# Procedures for ELLX - Luxembourg Findel Airport
+# Format: # <AIRPORT>:SID:<letters>:STAR:<letters> example: LEBL:SID:Q:STAR:W,Z
+
+ELLX:SID:P,R,Q,T,Z,X:STAR:D,K,S,B,W,V

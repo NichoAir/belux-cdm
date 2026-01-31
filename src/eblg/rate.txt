@@ -1,0 +1,5 @@
+# Rates for EBLG - Liege Airport
+# Format: AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
+
+EBLG:A:04R:*:D:04R:*:*:28_14
+EBLG:A:22L:*:D:22L:*:*:28_14

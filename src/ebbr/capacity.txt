@@ -1,0 +1,4 @@
+# Rates for EBBR - Brussels Zaventem Airport
+# Format: AIRPORT:MAX_ARRIVAL_ONLY_CAPACITY
+
+EBBR,68

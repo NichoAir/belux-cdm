@@ -1,0 +1,5 @@
+# Rates for EBAW - Antwerp(en) Deurne Airport
+# Format: AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
+
+EBAW:A:11:*:D:11:*:*:27_7
+EBAW:A:29:*:D:29:*:*:27_7

@@ -1,0 +1,5 @@
+# Rates for EBCI - Brussels South Charleroi Airport
+# Format: AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
+
+EBCI:A:24:*:D:24:*:*:29_14
+EBCI:A:06:*:D:06:*:*:27_13

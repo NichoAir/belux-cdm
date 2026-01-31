@@ -1,0 +1,4 @@
+# Procedures for EBCI - Brussels South Charleroi Airport
+# Format: # <AIRPORT>:SID:<letters>:STAR:<letters> example: LEBL:SID:Q:STAR:W,Z
+
+EBCI:SID:X,Y,U:STAR:A,B

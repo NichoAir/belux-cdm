@@ -1,0 +1,4 @@
+# Rates for EBAW - Antwerp(en) Deurne Airport
+# Format: AIRPORT:MAX_ARRIVAL_ONLY_CAPACITY
+
+EBAW,17

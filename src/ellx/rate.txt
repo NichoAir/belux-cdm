@@ -1,0 +1,4 @@
+# Rates for ELLX - Luxembourg Findel Airport
+# Format: AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
+
+ELLX:A:*:*:D:*:*:*:20_13

@@ -1,0 +1,4 @@
+# Rates for EBOS - Oostende-Brugge Airport
+# Format: AIRPORT:MAX_ARRIVAL_ONLY_CAPACITY
+
+EBOS,27

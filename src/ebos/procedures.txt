@@ -1,0 +1,4 @@
+# Procedures for EBOS - Oostende-Brugge Airport
+# Format: # <AIRPORT>:SID:<letters>:STAR:<letters> example: LEBL:SID:Q:STAR:W,Z
+
+EBOS:SID:K,M,S:STAR:A

@@ -1,0 +1,4 @@
+# Rates for EBCI - Brussels South Charleroi Airport
+# Format: AIRPORT:MAX_ARRIVAL_ONLY_CAPACITY
+
+EBCI,33

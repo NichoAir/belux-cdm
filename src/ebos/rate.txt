@@ -1,0 +1,6 @@
+# Rates for EBOS - Oostende-Brugge Airport
+# Format: AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
+
+EBOS:A:26:08:D:26:08:*:24_12
+EBOS:A:08:26:D:08:26:*:27_13
+EBOS:A:08:26:D:26:08:*:24_10

@@ -1,0 +1,4 @@
+# Procedures for EBLG - Liege Airport
+# Format: # <AIRPORT>:SID:<letters>:STAR:<letters> example: LEBL:SID:Q:STAR:W,Z
+
+EBLG:SID:R,S,E:STAR:X

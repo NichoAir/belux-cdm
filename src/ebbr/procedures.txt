@@ -1,0 +1,4 @@
+# Procedures for EBBR - Brussels Zaventem Airport
+# Format: # <AIRPORT>:SID:<letters>:STAR:<letters> example: LEBL:SID:Q:STAR:W,Z
+
+EBBR:SID:G,K,L,N,V,T,X,F,E,P,R,T,Y,U,W,M,Q:STAR:A,B

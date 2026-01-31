@@ -1,0 +1,4 @@
+# Rates for ELLX - Luxembourg Findel Airport
+# Format: AIRPORT:MAX_ARRIVAL_ONLY_CAPACITY
+
+ELLX,20
