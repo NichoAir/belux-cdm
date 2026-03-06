@@ -7,7 +7,7 @@
 	<pilotTobt mode="true" />
 	<autoAtot mode="true" />
 	<invalidateAtTsat mode="true" />
-	<invalidateAtTobt mode="true" />
+	<invalidateAtTobt mode="false" />
 	<Rates url="https://raw.githubusercontent.com/NichoAir/belux-cdm/refs/heads/main/cfg/rate.txt" />
 	<Taxizones url="https://raw.githubusercontent.com/NichoAir/belux-cdm/refs/heads/main/cfg/taxizones.txt" />
 	<Ctot url="https://raw.githubusercontent.com/NichoAir/belux-cdm/refs/heads/main/cfg/ctot.txt" />
