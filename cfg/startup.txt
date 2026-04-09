@@ -1,7 +1,7 @@
 STUP
 m_Visible:1
-m_X:1647
-m_Y:728
+m_X:1631
+m_Y:748
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:7
@@ -10,11 +10,11 @@ m_Column:T:1:1:1001:0:0:1:RDF Plugin for Euroscope:::0:0.0
 m_Column:CALLSIGN:9:0:9:0:0:1::::0:0.0
 m_Column:EOBT:5:1:1:117:115:0:CDM Plugin:CDM Plugin:CDM Plugin:1:0.0
 m_Column:CONF:5:1:145:0:0:1:CDM Plugin:::0:0.0
-m_Column:TOBT:5:1:4:115:121:1:CDM Plugin:CDM Plugin:CDM Plugin:1:0.0
+m_Column:TOBT:5:1:22:115:121:1:CDM Plugin:CDM Plugin:CDM Plugin:1:0.0
 m_Column:TTG:4:1:17:0:0:1:CDM Plugin:::1:0.0
 m_Column:TSAT:5:1:2:114:115:1:CDM Plugin:CDM Plugin:CDM Plugin:0:0.0
 m_Column:TSAC:5:1:5:103:104:1:CDM Plugin:CDM Plugin:CDM Plugin:0:0.0
-m_Column:ASRT:5:1:7:107:0:1:CDM Plugin:CDM Plugin::0:0.0
+m_Column:ASRT:5:1:7:155:0:1:CDM Plugin:CDM Plugin::0:0.0
 m_Column:ASAT:5:1:6:0:0:0:CDM Plugin:::0:0.0
 m_Column:CTOT:5:1:10:108:0:1:CDM Plugin:CDM Plugin::0:0.0
 m_Column:TTOT:5:0:3:0:0:1:CDM Plugin:::0:0.0
@@ -33,7 +33,7 @@ m_Column:E:1:1:58:27:0:1::::1:0.0
 m_Column:RFL:4:1:22:30:30:1::::0:0.0
 m_Column:FR:2:1:63:0:0:1::::0:0.0
 m_Column:STS:4:1:59:28:46:1::::1:0.0
-m_Column:RQ:2:0:546:548:0:0:VCH:VCH::0:0.0
+m_Column:RQ:2:0:546:548:0:1:VCH:VCH::0:0.0
 m_Column:RT:2:0:544:0:0:0:VCH:::0:0.0
 m_Column:SPAD:10:0:19:29:0:1::::0:0.0
 END
