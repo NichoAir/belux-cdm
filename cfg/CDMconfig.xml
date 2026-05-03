@@ -7,7 +7,7 @@
 	<bmi mode="false" />
 	<pilotTobt mode="true" />
 	<autoAtot mode="true" />
-	<invalidateAtTsat mode="true" />
+	<invalidateAtTsat mode="asrt" />
 	<invalidateAtTobt mode="false" />
 	<readySetTsac mode="true" />
 	<Rates url="https://raw.githubusercontent.com/NichoAir/belux-cdm/refs/heads/main/cfg/rate.txt" />
@@ -28,4 +28,5 @@
 	<sftpConnection mode="false" />
 	<Server mode="true" />
 	<Su_Wait mode="false" />
+	<flashingMode tobtLastMin="false" tsatFirstMin="false" tsatLastMin="true"/>
 </CDM>
